@@ -1,7 +1,4 @@
-# Python version
-python_version = "3.12.3"
-
-# Packages
+pickle
 flask
 gunicorn
 pandas
