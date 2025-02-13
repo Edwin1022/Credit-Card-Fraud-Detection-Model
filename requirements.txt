@@ -1,4 +1,6 @@
+pickle
 numpy
 pandas
 scikit-learn
 flask
+gunicorn
